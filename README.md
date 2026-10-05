@@ -1,76 +1,131 @@
-# 👋 Hi, I'm Nguyễn Thạc Mậu  
+# 👋 Hi, I'm Nguyễn Thạc Mậu
 
-## 🧑‍💻 About Me  
-- 📍 From: **Đắk Lắk, Vietnam**  
-- 🎂 Born: **November 30, 2008**  
-- 🎓 High school student passionate about **Information Technology**  
-- 💡 Love exploring: **Programming · Technology · Hardware Mods · Creative Projects**  
-- 🔥 Motto: *Keep building, keep breaking, keep improving*  
+### 💻 Developer · Builder · Tech Enthusiast
+
+> I build things, break things, learn from them, and build them better.
 
 ---
 
-## 💖 Donate ✨💲🤝  
+## 🧑‍💻 About Me
 
-Nếu bạn thấy dự án của mình hữu ích và muốn ủng hộ, có thể scan QR code hoặc dùng số:  
+- 🇻🇳 From **Đắk Lắk, Vietnam**
+- 🎂 Born **November 30, 2008**
+- 💻 Passionate about **Software Development & Technology**
+- 🔧 Interested in **Web Development · Automation · AI · Hardware · IoT**
+- 🚀 Building projects under **Mavrixdev**
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.vietqr.io/image/970422-1120089999-compact.png" width="120" alt="MB Bank QR"/>
-  </a>
-</p>
-
-### 📌 Thông tin chi tiết  
-- 🏦 **MB Bank**: `1120089999`  
-- 📱 **Momo**: `0935877156`  
-
-✨ Cảm ơn bạn rất nhiều vì đã ủng hộ mình trên hành trình phát triển 🚀  
-
-💖 **Mọi sự ủng hộ đều là động lực cho mình để tiếp tục phát triển và cải thiện dự án!**
+I enjoy turning ideas into practical projects — from web applications and automation tools to embedded systems and hardware experiments.
 
 ---
 
-## 🚀 Skills & Interests  
-### 🖥️ Programming & Development  
-- 🌐 Languages: **Python · C# · Kotlin (beginner)**  
-- 📱 App Development: **Android Studio, Flutter (basic)**  
-- 🤖 AI & Bots: **Chatbots, Automation Tools**  
-- ⚡ IoT & Embedded: **Arduino · ESP32 · ESP8266**
+## ⚡ What I Do
 
-### 🔬 Projects I've worked on  
-- 🖨️ **3D Printer** — stepper NEMA 17 + A4988 driver  
-- 🚗 **Mini Electric Vehicle** — ESP8266/ESP32 based control  
-- 🏠 **Smart Home Model** — Arduino Mega 2560 + Relays + Sensors (lights, pump, soil moisture)  
-- 🤖 **Multi-functional Telegram Bot** — games, AI chat, YouTube commands  
+- 🌐 **Web Development** — React, Next.js, Node.js, TypeScript
+- 🐍 **Programming** — Python, JavaScript, TypeScript, C#
+- 🤖 **AI & Automation** — Bots, APIs, automation tools
+- 🔌 **IoT & Embedded** — Arduino, ESP32, ESP8266
+- 📱 **Mobile Development** — Android Studio, Flutter
+- 🛠️ **Hardware** — Electronics, phone repair & hardware projects
 
 ---
 
-## 🎯 Vision  
-> 🌟 My dream is to become a developer who creates solutions that are:  
-> **Useful – Creative – Practical**.  
-> Technology for me is not just about making it work, but also making it:  
-> **Beautiful, Smart & Meaningful** in daily life.  
+## 🛠️ Tech Stack
 
----
-
-## 🛠️ Skills & Tools
-![languages](https://skillicons.dev/icons?i=github,python,vscode,arduino,linux&perline=6&theme=dark)
-
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavrixdev&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Mavrixdev">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,git,python,js,ts,react,nextjs,nodejs,html,css,tailwind,cs,flutter,androidstudio,arduino,esp32,linux,vscode&perline=9&theme=dark" />
 </p>
 
 ---
 
-## 📫 Contact Me  
+## 🚀 Projects
 
-- 🐙 GitHub: [github.com/Mavrixdev](https://github.com/Mavrixdev)  
-- 📧 Email: **accvippro208@gmail.com**  
-- 💬 Discord: [Mavrixdev](https://discordapp.com/users/1024241931515068446) 
+### 🤖 Telegram Bots
+
+Multi-purpose Telegram bots with:
+
+- 🎮 Games
+- 🤖 AI integration
+- ⚙️ Automation
+- 🔗 API integrations
+- 🛠️ Custom tools
+
+### 🌐 Web Projects
+
+Building modern websites, dashboards and web applications using:
+
+**React · Next.js · Node.js · TypeScript · Tailwind CSS**
+
+### 🏠 Smart Home
+
+Arduino / ESP32 based smart-home system featuring:
+
+- 💡 Light control
+- 💧 Water pump control
+- 🌱 Soil moisture monitoring
+- 📡 Sensors
+- 🔌 Relays
+
+### 🚗 Mini Electric Vehicle
+
+ESP8266 / ESP32 based control system for a small electric vehicle.
+
+### 🖨️ 3D Printer
+
+DIY 3D printer project using:
+
+- NEMA 17 stepper motors
+- A4988 drivers
+- Microcontroller-based control
 
 ---
 
-✨ *“Never stop learning – Never stop growing – The future is what we create.”* ✨
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavrixdev&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Mavrixdev's Top Languages"/>
+</p>
+
+---
+
+## 🎯 My Philosophy
+
+I don't want to learn technology just to collect technologies.
+
+I want to understand **how things work**, build something useful, and improve through real-world projects.
+
+> **Useful · Creative · Practical**
+
+The goal isn't to write perfect code from day one.
+
+The goal is to:
+
+**Keep building → Keep breaking → Keep learning → Keep improving.**
+
+---
+
+## 💖 Support My Work
+
+If you find my projects useful and would like to support my work, you can donate via:
+
+<p align="center">
+  <img src="https://img.vietqr.io/image/970422-1120089999-compact.png" width="160" alt="MB Bank QR"/>
+</p>
+
+- 🏦 **MB Bank:** `1120089999`
+- 📱 **MoMo:** `0935877156`
+
+Every contribution helps me continue building and improving my projects. ❤️
+
+---
+
+## 📫 Contact Me
+
+- 🐙 GitHub: [**Mavrixdev**](https://github.com/Mavrixdev)
+- 📧 Email: **accvippro208@gmail.com**
+- 💬 Discord: [**Mavrixdev**](https://discordapp.com/users/1024241931515068446)
+
+---
+
+<p align="center">
+  <i>“Never stop learning. Never stop building. Never stop improving.”</i>
+</p>
