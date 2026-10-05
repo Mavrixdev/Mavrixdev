@@ -21,6 +21,6 @@ Most of what I learn comes from building, experimenting, and fixing things along
 
 - GitHub: [Mavrixdev](https://github.com/Mavrixdev)
 - Email: **accvippro208@gmail.com**
-- FaceBook: [Mavrixdev](https://fb.com/ntmdz08)
+- FaceBook: [Nguyễn Thạc Mậu (Chuột)](https://fb.com/ntmdz08)
 
 > Build quietly. Learn continuously.
