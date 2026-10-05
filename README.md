@@ -1,76 +1,99 @@
-# 👋 Hi, I'm Nguyễn Thạc Mậu  
+# 👋 Hi, I'm Mavrixdev
 
-## 🧑‍💻 About Me  
-- 📍 From: **Đắk Lắk, Vietnam**  
-- 🎂 Born: **November 30, 2008**  
-- 🎓 High school student passionate about **Information Technology**  
-- 💡 Love exploring: **Programming · Technology · Hardware Mods · Creative Projects**  
-- 🔥 Motto: *Keep building, keep breaking, keep improving*  
+### 💻 Developer · Builder · Tech Enthusiast
+
+> Building things, breaking things, learning from them, and building them better.
 
 ---
 
-## 💖 Donate ✨💲🤝  
+## 🧑‍💻 About Me
 
-Nếu bạn thấy dự án của mình hữu ích và muốn ủng hộ, có thể scan QR code hoặc dùng số:  
+I'm an independent developer who enjoys turning ideas into practical projects.
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.vietqr.io/image/970422-1120089999-compact.png" width="120" alt="MB Bank QR"/>
-  </a>
-</p>
+My interests include:
 
-### 📌 Thông tin chi tiết  
-- 🏦 **MB Bank**: `1120089999`  
-- 📱 **Momo**: `0935877156`  
+- 🌐 Web Development
+- 🤖 AI & Automation
+- 🔌 IoT & Embedded Systems
+- 🛠️ Hardware & Electronics
+- 📱 Mobile Development
+- 🧪 Technology Experiments
 
-✨ Cảm ơn bạn rất nhiều vì đã ủng hộ mình trên hành trình phát triển 🚀  
-
-💖 **Mọi sự ủng hộ đều là động lực cho mình để tiếp tục phát triển và cải thiện dự án!**
+I enjoy learning by **building real projects**, experimenting with new technologies, and solving problems along the way.
 
 ---
 
-## 🚀 Skills & Interests  
-### 🖥️ Programming & Development  
-- 🌐 Languages: **Python · C# · Kotlin (beginner)**  
-- 📱 App Development: **Android Studio, Flutter (basic)**  
-- 🤖 AI & Bots: **Chatbots, Automation Tools**  
-- ⚡ IoT & Embedded: **Arduino · ESP32 · ESP8266**
+## ⚡ What I Do
 
-### 🔬 Projects I've worked on  
-- 🖨️ **3D Printer** — stepper NEMA 17 + A4988 driver  
-- 🚗 **Mini Electric Vehicle** — ESP8266/ESP32 based control  
-- 🏠 **Smart Home Model** — Arduino Mega 2560 + Relays + Sensors (lights, pump, soil moisture)  
-- 🤖 **Multi-functional Telegram Bot** — games, AI chat, YouTube commands  
+- 🌐 **Web Development** — React, Next.js, Node.js, TypeScript
+- 🐍 **Programming** — Python, JavaScript, TypeScript, C#
+- 🤖 **AI & Automation** — Bots, APIs, automation tools
+- 🔌 **IoT & Embedded** — Arduino, ESP32, ESP8266
+- 📱 **Mobile Development** — Android Studio, Flutter
+- 🛠️ **Hardware** — Electronics, repair & hardware projects
 
 ---
 
-## 🎯 Vision  
-> 🌟 My dream is to become a developer who creates solutions that are:  
-> **Useful – Creative – Practical**.  
-> Technology for me is not just about making it work, but also making it:  
-> **Beautiful, Smart & Meaningful** in daily life.  
+## 🛠️ Tech Stack
 
----
-
-## 🛠️ Skills & Tools
-![languages](https://skillicons.dev/icons?i=github,python,vscode,arduino,linux&perline=6&theme=dark)
-
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavrixdev&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Mavrixdev">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,git,python,js,ts,react,nextjs,nodejs,html,css,tailwind,cs,flutter,androidstudio,arduino,esp32,linux,vscode&perline=9&theme=dark" />
 </p>
 
 ---
 
-## 📫 Contact Me  
+## 🚀 Projects
 
-- 🐙 GitHub: [github.com/Mavrixdev](https://github.com/Mavrixdev)  
-- 📧 Email: **accvippro208@gmail.com**  
-- 💬 Discord: [Mavrixdev](https://discordapp.com/users/1024241931515068446) 
+### 🤖 Automation & Bots
+
+Building automation tools, Telegram bots, API integrations and custom utilities.
+
+### 🌐 Web Applications
+
+Creating modern websites, dashboards and web applications with:
+
+**React · Next.js · Node.js · TypeScript · Tailwind CSS**
+
+### 🔌 IoT & Embedded Systems
+
+Experimenting with microcontrollers and electronics using:
+
+**Arduino · ESP32 · ESP8266**
+
+### 🛠️ Hardware Projects
+
+Exploring electronics, hardware modification, troubleshooting and practical technology solutions.
 
 ---
 
-✨ *“Never stop learning – Never stop growing – The future is what we create.”* ✨
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavrixdev&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Mavrixdev's Top Languages"/>
+</p>
+
+---
+
+## 🎯 Philosophy
+
+I don't want to learn technology just to collect technologies.
+
+I want to understand **how things work**, build something useful, and improve through real-world experience.
+
+> **Useful · Creative · Practical**
+
+**Keep building → Keep learning → Keep improving.**
+
+---
+
+## 📫 Contact
+
+- 🐙 GitHub: [**Mavrixdev**](https://github.com/Mavrixdev)
+- 📧 Email: **accvippro208@gmail.com**
+- 💬 Discord: [**Mavrixdev**](https://discordapp.com/users/1024241931515068446)
+
+---
+
+<p align="center">
+  <i>“Never stop learning. Never stop building. Never stop improving.”</i>
+</p>
