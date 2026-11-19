@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="Mavrixdev developer banner">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070D19"/><stop offset=".6" stop-color="#11213C"/><stop offset="1" stop-color="#063747"/></linearGradient><linearGradient id="glow"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#38BDF8" stroke-opacity=".12"/></pattern></defs>
+<rect width="1200" height="270" fill="url(#bg)"/><rect width="1200" height="270" fill="url(#grid)"/>
+<circle cx="1100" cy="-30" r="210" fill="#22D3EE" opacity=".06"/><circle cx="80" cy="290" r="190" fill="#A78BFA" opacity=".07"/>
+<g fill="none" stroke="url(#glow)" stroke-width="3" opacity=".65"><path d="M55 195l40-70 40 70 40-70 40 70"/><path d="M985 62h128l-30 40h-68l-30 40h128"/></g>
+<text x="600" y="105" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="62" letter-spacing="6" fill="#F8FAFC">MAVRIXDEV</text>
+<rect x="448" y="130" width="304" height="3" rx="2" fill="url(#glow)"/>
+<text x="600" y="173" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="2" fill="#67E8F9">CODE · CREATE · INNOVATE</text>
+<text x="600" y="210" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#CBD5E1">FULL-STACK  /  AI  /  IoT</text>
+</svg>
